@@ -46,5 +46,6 @@ tqdm
 !tar -xzf 102flowers.tgz
 ```
 ## Trained Output:
-![Preview](https://raw.githubusercontent.com/iceman404/Fine-Tuning-using-Resnet50/blob/main/asset/download.jpeg)
+![Preview](https://github.com/iceman404/Fine-Tuning-using-Resnet50/raw/main/asset/download.jpeg)
+.
 **I think, it can be further improved. But at the moment it's the best solution without the risk of overfitting.**
