@@ -47,5 +47,5 @@ tqdm
 ```
 ## Trained Output:
 ![Preview](https://github.com/iceman404/Fine-Tuning-using-Resnet50/raw/main/asset/download.jpeg)
-.
+
 **I think, it can be further improved. But at the moment it's the best solution without the risk of overfitting.**
